@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=East+Sea+Dokdo&family=Jua&family=Noto+Serif+KR&display=swap');
+* {
+        font-family: 'Jua', sans-serif;
+}
+
+body {
+  
+    width: 400px;
+    margin: 50px auto 20px auto;
+    background-image: url('https://plus.unsplash.com/premium_photo-1678393263356-1f0b547c430b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1932&q=80');
+    background-position: center;
+    background-size: cover;
+}
+#yagugame{
+    text-align: center;
+}
+#postingbtn{
+    margin-left: 150px;
+}
+.choose {
+    width: 200px;
+    text-align: center;
+}
+
+.ball {
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background-color: green;
+    color: #FFFFFF;
+    text-align: center;
+    line-height: 30px;
+    margin-right: 5px;
+    margin-bottom: 10px;
+}
+
+.randomball {
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background-color: rgb(25, 121, 195);
+    color: #FFFFFF;
+    text-align: center;
+    line-height: 30px;
+    margin-right: 5px;
+    margin-bottom: 10px;
+}
+
+.result {
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background-color: rgb(220, 88, 88);
+    color: #FFFFFF;
+    text-align: center;
+    line-height: 30px;
+    margin-right: 5px;
+}
